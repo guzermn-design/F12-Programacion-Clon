@@ -4,13 +4,13 @@ tarea1.tex
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath}
 
-\title{Área de Investigación y Programación}
-\author{Tu Nombre}
-\date{\today}
+\title{Programación1}
+\author{Gabriel Gustavo Us Cruz}
+\date{\3 de Febrero de 2026}
 
 \begin{document}
 
-\maketitle
+\Ensayo
 
 \section{Área de investigación}
 Mi área de interés en Física es la astrofísica, astronomía y sismología.
