@@ -1,1 +1,26 @@
+tarea1.tex
+\documentclass[12pt]{article}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
 
+\title{Área de Investigación y Programación}
+\author{Tu Nombre}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Área de investigación}
+Mi área de interés en Física es la astrofísica, astronomía y sismología.
+Debido a que me resulta interesante como con ayuda de la Física se puede saber con mas exactitud los fenomenos naturales que nos rodean.
+Como la existencia de exoplanetas, la geografía del mundo, los movimienots de cuerpos celestes, entre otras cosas.
+
+\section{Importancia de la programación}
+La programación es una herramienta fundamental en esta área, ya que permite simular sistemas,
+resolver ecuaciones que podrían resultar complejas y analizar grandes volúmenes de datos como las ondas, satelites, etc.
+Lenguajes como Python o C++ facilitan la implementación de modelos y la visualización de resultados,
+lo cual es clave para la investigación científica de los temas de mi interes.
+
+\end{document}
